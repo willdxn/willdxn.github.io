@@ -10,6 +10,7 @@ title: "$title"
 date: $(date '+%Y-%m-%d %H:%M:%S %z')
 categories: []
 tags: []
+image: ""
 ---
 
 ## $title
