@@ -8,6 +8,7 @@ image: ""
 ---
 
 ![main](https://s0.geograph.org.uk/geophotos/07/73/34/7733468_47249379_original.jpg)
+*Lumo train passing Nether Poppleton – DS Pugh/Geograph [(CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/).
 
 Travellers looking up at the departure boards in London’s Kings Cross will see several companies running trains to the same places.
 
@@ -33,4 +34,4 @@ They are right to be concerned. Britain’s rail subsidy has increased by 65% si
 
 The ability to tap into excess capacity on the railways should be celebrated. Bradford, a city of half a million, had no trains to London before Grand Central begun operating four per day from 2010. Approve more trains and passengers will come.
 
-*Image: Copyright DS Pugh. Used under [licence](https://creativecommons.org/licenses/by-sa/2.0/).*
+*Image: Copyright *
