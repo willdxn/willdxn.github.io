@@ -28,10 +28,8 @@ For now, only one more operator looks set to join the open access ranks, running
 
 Heidi Alexander, the Transport Secretary has sent repeated letters to the ORR, expressing her worries that open access services will steal passengers that would otherwise travel on franchised routes. The RMT, a union, argue that open access operators should be should be folded into GBR.
 
-They are right to be concerned. Britain’s rail subsidy has increased by 65% since 2022. Instead of blocking access, Ms Alexander should level the playing field. Open access firms were for a long time exempt from paying fixed charges to maintain the railways, tantamount to an indirect subsidy (see chart). Phill Wheat of the University of Leeds and his coauthors found this is partly why their fares are cheaper. The Competition and Markets Authority, a regulator, called for a levelling of the playing field in 2016. And, although the ORR has introduced a new fee in order to mitigate this, it targets firms that they think can eat into their profits—so far this only includes Lumo. They could gradually introduce a charge to all operators.
+They are right to be concerned. Britain’s rail subsidy has increased by 65% since 2022. Instead of blocking access, Ms Alexander should level the playing field. Open access firms were for a long time exempt from paying fixed charges to maintain the railways, tantamount to an indirect subsidy (see chart). Phill Wheat of the University of Leeds and his coauthors found this is partly why their fares are cheaper. The Competition and Markets Authority, a regulator, called for a levelling of the playing field in 2016. And, although the ORR has introduced a new fee in order to mitigate this, it targets firms that they think can eat into their profits – so far this only includes Lumo. They could gradually introduce a charge to all operators.
 
 ![plot](/docs/assets/2025-07-04-plot.png)
 
 The ability to tap into excess capacity on the railways should be celebrated. Bradford, a city of half a million, had no trains to London before Grand Central begun operating four per day from 2010. Approve more trains and passengers will come.
-
-*Image: Copyright *
