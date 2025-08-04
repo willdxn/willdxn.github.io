@@ -8,7 +8,7 @@ image: ""
 ---
 
 ![main](https://s0.geograph.org.uk/geophotos/07/73/34/7733468_47249379_original.jpg)
-*Lumo train passing Nether Poppleton – DS Pugh/Geograph [(CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/).
+*Lumo train passing Nether Poppleton – DS Pugh/Geograph [(CC BY-SA 2.0)](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 Travellers looking up at the departure boards in London’s Kings Cross will see several companies running trains to the same places.
 
